@@ -1,18 +1,20 @@
 # finitedifference
 
-Numerical algorithms to integrate some celebrated nonlinear partial differential equations.
+> Numerical algorithms to integrate some celebrated nonlinear partial differential equations.
 
-This repository includes some finite difference methods to solve:
+This repository includes some finite difference methods to solve the following problems:
 
-1) Bour (sine-Gordon)
-2) Korteweg--de Vries
-3) Kadomtsev--Petviashvili
-4) van der Pol pendulum
-5) Nonlinear pendulum
-6) fractional Diffusion
-7) Diffusion
-8) Advection 
-9) Poisson
+- Bour (sine-Gordon)
+- Korteweg--de Vries
+- Kadomtsev--Petviashvili
+- van der Pol pendulum
+- nonlinear pendulum
+- fractional diffusion (super--diffusion)
+- diffusion
+- advection 
+- Poisson
 
-All methods are programmed in python. In some cases an iPython (Jupyter) Notebook
-is presented so as to interact with numerical solutions.
+All methods are programmed in python. There are some iPython (Jupyter) Notebooks so as to interact with numerical solutions.
+There is no warranty the code works neither efficiently nor correctly. You are advised to study the theory. Feel free to contribute with your corrections, improvements and also with additional methods.
+
++info www.fvnts.ch
