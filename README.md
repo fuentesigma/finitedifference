@@ -16,5 +16,3 @@ This repository includes some finite difference methods to solve the following p
 
 All methods are programmed in python. There are some iPython (Jupyter) Notebooks so as to interact with numerical solutions.
 There is no warranty the code works neither efficiently nor correctly. You are advised to study the theory. Feel free to contribute with your corrections, improvements and also with additional methods.
-
-+info www.fvnts.ch
