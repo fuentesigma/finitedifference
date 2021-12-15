@@ -14,4 +14,4 @@ This repository includes some finite difference methods to solve the following p
 - advection 
 - Poisson
 
-All methods are programmed in Python. There is no warranty the code works neither efficiently nor correctly. You are advised to study the theory. Feel free to contribute with your corrections, improvements and also with additional methods.
+The code might not perform neither efficiently nor correctly. You are advised to study the theory. Feel free to contribute with corrections, improvements and also with additional methods.
